@@ -1,6 +1,4 @@
-### 附上JOJO的名言
-
-> 我追求的并不只是一个结果，一旦只追求结果，人就容易想方设法的抄近路，抄了近路，人又容易迷失真相，做事情的干劲也会消磨殆尽！我要的就是追求真相的意志！
+[![my github data](https://github-readme-stats.vercel.app/api?username=leiwingqueen&show_icons=true&theme=dark)]()
 
 <!--
 **leiwingqueen/leiwingqueen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
