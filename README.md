@@ -1,4 +1,7 @@
-[![my github data](https://github-readme-stats.vercel.app/api?username=leiwingqueen&show_icons=true&theme=dark)]()
+[![my github data](https://github-readme-stats.vercel.app/api?username=leiwingqueen&show_icons=true&theme=algolia)]()
+
+- 🔭 I’m currently working on [lsm-tree database](https://github.com/leiwingqueen/LSMTreeDB)
+- 🌱 I’m currently learning algrithom and distribute storage system
 
 <!--
 **leiwingqueen/leiwingqueen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
