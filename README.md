@@ -2,7 +2,6 @@ Hi, welcome to my github home page
 ---
 [![my github data](https://github-readme-stats.vercel.app/api?username=leiwingqueen&show_icons=true&theme=algolia)]()
 
-- 🔭 I’m currently working on [lsm-tree database](https://github.com/leiwingqueen/LSMTreeDB)
 - 🌱 I’m currently learning algrithom and distribute storage system
 
 <!--
